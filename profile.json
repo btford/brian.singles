@@ -8,5 +8,5 @@
   ],
   "single": true,
   "inYourArea": true,
-  "interestedIn": "ladies"
+  "interestedIn": ["ladies"]
 }
