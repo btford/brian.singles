@@ -7,7 +7,7 @@
     "ears",
     "emoji"
   ],
-  "single": true,
+  "single": false,
   "inYourArea": true,
   "interestedIn": ["ladies"]
 }
