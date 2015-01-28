@@ -5,7 +5,7 @@
     "saran wrap",
     "emoji"
   ],
-  "single": true,
-  "inYourArea": true,
+  "single": false,
+  "inYourArea": false,
   "interestedIn": ["ladies"]
 }
